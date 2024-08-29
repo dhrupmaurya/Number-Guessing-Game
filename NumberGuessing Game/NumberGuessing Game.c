@@ -25,4 +25,5 @@ nguess++;
     }while(guess!=number);
 
          return 0;
+         printf("Modified");
 }
